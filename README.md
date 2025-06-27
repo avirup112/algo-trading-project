@@ -1,8 +1,7 @@
-<h1 align="center">Algo_trading_project</h1>
+<h1 align="center">Algo-trading-project</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/avirup112/algo-trading-project?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/avirup112/algo-trading_-project?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/avirup112/algo-trading-project?color=56BEB8">
   <img alt="License" src="https://img.shields.io/github/license/avirup112/algo-trading-project?color=56BEB8">
 </p>
